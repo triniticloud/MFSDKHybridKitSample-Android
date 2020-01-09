@@ -1,4 +1,4 @@
-# MFSDKHybridKitSample-iOS
+# MFSDKHybridKitSample-Android
 
 [![N|Solid](https://active.ai/wp-content/uploads/2019/03/aai_logo-min.png)](https://github.com/triniticloud/MFSDKHybridKitSample)
 
