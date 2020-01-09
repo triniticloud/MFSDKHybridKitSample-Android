@@ -4,7 +4,7 @@ android {
     compileSdkVersion 29
     buildToolsVersion "29.0.2"
     defaultConfig {
-        applicationId "com.activeai.MFSDKNativeKitSample"
+        applicationId "com.activeai.MFSDKHybridKitSample"
         minSdkVersion 21
         targetSdkVersion 29
         versionCode 1
@@ -26,4 +26,40 @@ dependencies {
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'androidx.test.ext:junit:1.1.1'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
+
+    // MFSDKHybridKit
+    implementation 'com.morfeus.android:MFSDKHybridKit:2.5.0'
+
+    // MFSDKVoice
+    implementation 'com.morfeus.android.voice:MFSDKVoice:2.4.10'
+
+    implementation 'com.morfeus.android:MFOkHttp:3.12.0'
+    implementation 'com.morfeus.android:MFSecurityKit:1.3.30'
+
+    // MFNotification
+    implementation 'com.morfeus.android:MFNotification:1.0.0'
+
+    // Firebase
+    implementation 'com.google.firebase:firebase-core:16.0.5'
+    implementation 'com.google.firebase:firebase-messaging:17.3.4'
+
+    implementation 'com.google.android.gms:play-services-safetynet:16.0.0'
+
+    implementation 'com.google.guava:guava:22.0-android'
+
+    // OAuth2 for Google API
+    implementation('com.google.auth:google-auth-library-oauth2-http:0.7.0') {
+        exclude module: 'httpclient'
+    }
+
+    // gRPC
+    def vGRPC = '1.26.0'
+    implementation "io.grpc:grpc-okhttp:$vGRPC"
+    implementation "io.grpc:grpc-protobuf-lite:$vGRPC"
+    implementation "io.grpc:grpc-stub:$vGRPC"
+    implementation "io.grpc:grpc-android:$vGRPC"
+    implementation 'javax.annotation:javax.annotation-api:1.2'
+
+    // Extra
+    implementation 'com.jakewharton:process-phoenix:2.0.0'
 }

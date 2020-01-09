@@ -18,6 +18,13 @@ allprojects {
     repositories {
         google()
         jcenter()
+        maven {
+            url "http://artifacts.active.ai/artifactory/android-sdk-release"
+            credentials {
+                username = "YOUR_USERNAME"
+                password = "YOUR_PASSWORD"
+            }
+        }
         
     }
 }
