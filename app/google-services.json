@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "353511427791",
+    "firebase_url": "https://axis-demo-ccad6.firebaseio.com",
+    "project_id": "axis-demo-ccad6",
+    "storage_bucket": "axis-demo-ccad6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353511427791:android:afbe148d42d80b6b",
+        "android_client_info": {
+          "package_name": "com.activeai.MFSDKHybridKitSample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353511427791-3kjdod53r0viu3o3u00inh6hh8si3dmq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARKT3Co1yGJ_0FgoPNQHQ9PZpjP8AAitE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353511427791-3kjdod53r0viu3o3u00inh6hh8si3dmq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "353511427791-9jqm3il3dvt8juu0elvo4ipcevo2ioh5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.activeai.MFSDKHybridKitSample"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

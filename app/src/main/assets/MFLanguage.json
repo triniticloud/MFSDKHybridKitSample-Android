@@ -1,0 +1,137 @@
+{
+  "version": 1.3,
+  "text": [
+    {
+      "lang": "en",
+
+      "MFSSPR1_M": "Oops! Something went wrong. Please try again after some time.",
+      "MFSSPR1_T": "Error",
+      "MFSSPR1_P_BTN": "Dismiss",
+
+      "MFSDK1_M": "Oops! Something went wrong. Please try again after some time.",
+      "MFSDK1_T": "Error",
+      "MFSDK1_P_BTN": "Dismiss",
+
+      "MFSDK2_M": "Oops! Something went wrong. Please try again after some time.",
+      "MFSDK2_T": "Error",
+      "MFSDK2_P_BTN": "Dismiss",
+
+      "MFSDK3_M": "Oops! Something went wrong. Please try again after some time.",
+      "MFSDK3_T": "Error",
+      "MFSDK3_P_BTN": "Dismiss",
+
+      "MFSDK4_M": "Oops! Something went wrong. Please try again after some time.",
+      "MFSDK4_T": "Error",
+      "MFSDK4_P_BTN": "Dismiss",
+
+      "MFSDK5_M": "Oops! Something went wrong. Please try again after some time.",
+      "MFSDK5_T": "Error",
+      "MFSDK5_P_BTN": "Dismiss",
+
+      "MFSDK6_M": "Oops! Something went wrong. Please try again after some time.",
+      "MFSDK6_T": "Error",
+      "MFSDK6_P_BTN": "Dismiss",
+
+      "MFSDK7_M": "It seems that APK verification has failed. Please restart the app. If this issue persists, please try reinstalling the app from play store.",
+      "MFSDK7_T": "Verification Failed",
+      "MFSDK7_P_BTN": "Dismiss",
+
+      "MFSDK8_M": "Sorry, encountered a connection issue. Please check your network connection and try again",
+      "MFSDK8_T": "Connection Problem",
+      "MFSDK8_P_BTN": "Ok",
+
+      "MFSDK9_M": "Oops! Something went wrong. Please try again after some time.",
+      "MFSDK9_T": "Error",
+      "MFSDK9_P_BTN": "Retry",
+      "MFSDK9_N_BTN": "Cancel",
+
+      "MFSDK10_M": "We are unable to verify that your device or the software running on it is Android compatible.You may need to unroot your device.",
+      "MFSDK10_T": "App cannot be used",
+      "MFSDK10_P_BTN": "Dismiss",
+
+      "MFSDK11_M": "We found that your device is rooted. This Feature is not available for rooted device.",
+      "MFSDK11_T": "App cannot be used",
+      "MFSDK11_P_BTN": "Dismiss",
+
+      "MFSDK12_M": "There was a problem connecting to the server. Please try again after some time.",
+      "MFSDK12_T": "Connection Problem",
+      "MFSDK12_P_BTN": "Ok",
+
+      "MFSDK_UPDATE_M": "New chat version is available, please tap on update to see change.",
+      "MFSDK_UPDATE_T": "New Update",
+      "MFSDK_UPDATE_P_BTN": "Update",
+      "MFSDK_UPDATE_N_BTN": "Later",
+
+      "MFSDK_EXIT_M": "Are you sure you want to exit?",
+      "MFSDK_EXIT_T": "Exit",
+      "MFSDK_EXIT_P_BTN": "Exit",
+      "MFSDK_EXIT_N_BTN": "Cancel"
+    },
+    {
+      "lang": "hi",
+
+      "MFSSPR1_M": "कुछ गलत हो गया। कृपया कुछ समय बाद पुनः प्रयास करें।",
+      "MFSSPR1_T": "त्रुटि",
+      "MFSSPR1_P_BTN": "खारिज",
+
+      "MFSDK1_M": "कुछ गलत हो गया। कृपया कुछ समय बाद पुनः प्रयास करें।",
+      "MFSDK1_T": "त्रुटि",
+      "MFSDK1_P_BTN": "खारिज",
+
+      "MFSDK2_M": "कुछ गलत हो गया। कृपया कुछ समय बाद पुनः प्रयास करें।",
+      "MFSDK2_T": "त्रुटि",
+      "MFSDK2_P_BTN": "खारिज",
+
+      "MFSDK3_M": "कुछ गलत हो गया। कृपया कुछ समय बाद पुनः प्रयास करें।",
+      "MFSDK3_T": "त्रुटि",
+      "MFSDK3_P_BTN": "खारिज",
+
+      "MFSDK4_M": "कुछ गलत हो गया। कृपया कुछ समय बाद पुनः प्रयास करें।",
+      "MFSDK4_T": "त्रुटि",
+      "MFSDK4_P_BTN": "खारिज",
+
+      "MFSDK5_M": "कुछ गलत हो गया। कृपया कुछ समय बाद पुनः प्रयास करें।",
+      "MFSDK5_T": "त्रुटि",
+      "MFSDK5_P_BTN": "खारिज",
+
+      "MFSDK6_M": "कुछ गलत हो गया। कृपया कुछ समय बाद पुनः प्रयास करें।",
+      "MFSDK6_T": "त्रुटि",
+      "MFSDK6_P_BTN": "खारिज",
+
+      "MFSDK7_M": "ऐसा लगता है कि ऐप सत्यापन विफल हो गया है। कृपया एप्लिकेशन पुनः आरंभ करें। यदि यह समस्या बनी रहती है, तो कृपया ऐप को प्ले स्टोर से पुनः इंस्टॉल करने का प्रयास करें।",
+      "MFSDK7_T": "सत्यापन में विफल",
+      "MFSDK7_P_BTN": "ठीक",
+
+      "MFSDK8_M": "क्षमा करें, नेटवर्क कनेक्शन समस्या का सामना कर रहा है। कृपया अपना नेटवर्क कनेक्शन जांचें और पुनः प्रयास करें",
+      "MFSDK8_T": "नेटवर्क समस्या",
+      "MFSDK8_P_BTN": "ठीक",
+
+      "MFSDK9_M": "कुछ गलत हो गया। कृपया कुछ समय बाद पुनः प्रयास करें।",
+      "MFSDK9_T": "त्रुटि",
+      "MFSDK9_P_BTN": "पुन: प्रयास करें",
+      "MFSDK9_N_BTN": "रद्द",
+
+      "MFSDK10_M": "हम यह सत्यापित करने में असमर्थ हैं कि आपका डिवाइस या उस पर चलने वाला सॉफ़्टवेयर Android संगत है। आपको अपने डिवाइस को अनरूट करना पड़ सकता है।",
+      "MFSDK10_T": "ऐप का उपयोग नहीं किया जा सकता है",
+      "MFSDK10_P_BTN": "रद्द",
+
+      "MFSDK11_M": "हमने पाया कि आपका डिवाइस रूटेड है। यह फ़ीचर रूटेड डिवाइस के लिए उपलब्ध नहीं है।",
+      "MFSDK11_T": "ऐप का उपयोग नहीं किया जा सकता है",
+      "MFSDK11_P_BTN": "रद्द",
+
+      "MFSDK12_M": "क्षमा करें, नेटवर्क कनेक्शन समस्या का सामना कर रहा है। कृपया अपना नेटवर्क कनेक्शन जांचें और पुनः प्रयास करें",
+      "MFSDK12_T": "नेटवर्क समस्या",
+      "MFSDK12_P_BTN": "ठीक",
+
+      "MFSDK_UPDATE_M": "नया अपडेट उपलब्ध है, कृपया परिवर्तन देखने के लिए अपडेट पर टैप करें।",
+      "MFSDK_UPDATE_T": "नई अपडेट",
+      "MFSDK_UPDATE_P_BTN": "अपडेट",
+      "MFSDK_UPDATE_N_BTN": "बाद में",
+
+      "MFSDK_EXIT_M": "क्या आप निश्चित हैं आपकी बाहर निकलने की इच्छा है?",
+      "MFSDK_EXIT_T": "बाहर जाएं",
+      "MFSDK_EXIT_P_BTN": "बाहर जाएं",
+      "MFSDK_EXIT_N_BTN": "रद्द"
+    }
+  ]
+}
