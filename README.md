@@ -14,7 +14,7 @@ Morfeus enables financial institutions to deliver consumer services using Intuit
 # Setup Environment Details
 
  - To Open Chat Bot you need to set Environment detail like BOT_URL, BOT_ID & BOT_NAME to the Constant fields on Constants.java file
- - You can find that file here <a hrif= "https://github.com/triniticloud/MFSDKHybridKitSample-Android/blob/master/app/src/main/java/com/activeai/MFSDKHybridKitSample/utils/Constants.java">Constants.java</a>
+ - You can find that file here <a href= "https://github.com/triniticloud/MFSDKHybridKitSample-Android/blob/master/app/src/main/java/com/activeai/MFSDKHybridKitSample/utils/Constants.java">Constants.java</a>
  
     |Property|Description|
     |-|-|
