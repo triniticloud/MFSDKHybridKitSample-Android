@@ -10,3 +10,17 @@ Morfeus enables financial institutions to deliver consumer services using Intuit
 
   - Android Studio 2.3+
   - Android 4.0.3+
+
+# Setup Environment Details
+
+ - To Open Chat Bot you need to set Environment detail like BOT_URL, BOT_ID & BOT_NAME to the Constant fields on Constants.java file
+ - You can find that file here <a hrif= "https://github.com/triniticloud/MFSDKHybridKitSample-Android/blob/master/app/src/main/java/com/activeai/MFSDKHybridKitSample/utils/Constants.java">Constants.java</a>
+ 
+    |Property|Description|
+    |-|-|
+    |BOT_ID|The unique ID for the bot.|
+    |BOT_NAME|The bot name to display on top of chat screen.|
+    |END_POINT_URL|The bot API URL.|
+
+    For more details refer below link 
+    https://docs.triniti.ai/tutorials.html#managing-android
