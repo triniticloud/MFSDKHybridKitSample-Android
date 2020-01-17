@@ -25,6 +25,14 @@ allprojects {
                 password = "YOUR_PASSWORD"
             }
         }
+
+        maven {
+            url "http://repo.active.ai/artifactory/resources/mobile/sdk-release"
+            credentials {
+                username = "YOUR_USERNAME"
+                password = "YOUR_PASSWORD"
+            }
+        }
         
     }
 }

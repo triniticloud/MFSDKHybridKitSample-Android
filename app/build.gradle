@@ -27,7 +27,7 @@ dependencies {
     implementation 'com.android.support:design:28.0.0'
 
     // MFSDKHybridKit
-    implementation 'com.morfeus.android:MFSDKHybridKit:2.5.0'
+    implementation 'com.activeai.android:MFSDKHybridKit:2.5.1'
 
     // MFSDKVoice
     implementation 'com.morfeus.android.voice:MFSDKVoice:2.4.10'
